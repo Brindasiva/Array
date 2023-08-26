@@ -13,3 +13,7 @@ Declaration of array with 5 elements.storing intger to an array.
 Storing String to an array.
 syx: String s[] = new String[]
 ![image](https://github.com/Brindasiva/Array/assets/124075213/5940d2e4-b2a2-4f0c-8c67-47fc2457536e)
+
+
+Two dimensional array
+![image](https://github.com/Brindasiva/Array/assets/124075213/31d092aa-5bd3-4abe-a4fe-4f6c9df40a71)
